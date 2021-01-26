@@ -1,5 +1,5 @@
-# Sample Golang app for CI
-This sample app is made to help other developers start working with docker and jenkins
+#  Golang app for CI
+This app is made to help other developers start working with docker and jenkins
 
 Its a work in progress so any comment and suggestion is well received
 
